@@ -1,19 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m [Your Name]
 
-<!--
-**JaneChapco/JaneChapco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a lawyer transitioning into **web development**, bringing a strong background in research, problem-solving, and clear communication.  
 
-Here are some ideas to get you started:
+🌱 Currently learning **JavaScript, React, and full-stack development**  
+💻 Building projects to sharpen my coding skills and showcase my growth  
+⚖️ Former lawyer – now applying analytical thinking to code  
+📫 How to reach me: jane.chapco@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*"Turning arguments into algorithms."*
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vscode,git,github,md,mongodb,mysql,nodejs,npm,react,express,redux,postman,tailwind,ts)](https://skillicons.dev)
 
