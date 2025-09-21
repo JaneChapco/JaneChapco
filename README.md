@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]
+# 👋 Hi, I’m Jane Chapco
 
 I’m a lawyer transitioning into **web development**, bringing a strong background in research, problem-solving, and clear communication.  
 
