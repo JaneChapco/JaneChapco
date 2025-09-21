@@ -15,6 +15,6 @@ I’m a lawyer transitioning into **web development**, bringing a strong backgro
 *"Turning advanced problem-solving skills into creative and sophisticated web applications."*
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vscode,git,github,md,mongodb,mysql,nodejs,npm,react,express,redux,postman,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vscode,git,github,md,mongodb,mysql,nodejs,npm,react,express,redux,postman,tailwind,ts&perline=10)](https://skillicons.dev)
 
 
