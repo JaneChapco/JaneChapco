@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap,vscode,git,github,md,mongodb,mysql,nodejs,npm,react,express,redux,postman,tailwind,ts)](https://skillicons.dev)
+
+![Coffee cup](/coffee-unsplash.png)
